@@ -1,5 +1,16 @@
+@import url(./vendors/reset.css);
+
+body{
+    color: #fff;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 170px;
+}
+
+
 .main-layout{
-    background-image: url(../../img/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
